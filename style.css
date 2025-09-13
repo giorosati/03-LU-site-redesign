@@ -67,7 +67,7 @@ a {
 
 a:hover {
   color: #FC60A8;
-  /* text-decoration: underline; */
+  text-decoration: none;
 }
 /* Images */
 img {
