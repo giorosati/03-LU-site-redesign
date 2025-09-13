@@ -62,12 +62,12 @@ h3 {
 /* Links & Accents */
 a {
   color: #494368;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
   color: #FC60A8;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 /* Images */
 img {
