@@ -78,16 +78,12 @@ img {
   box-shadow: 0 8px 10px rgba(0,0,0,0.3);
 }
 
-
-
-
 /* Hero Section */
 #hero-container {
   max-width: 800px;
   justify-content: center;
   margin: 0 auto;
 }
-
 
 /* Main Content */
 main {
@@ -103,7 +99,6 @@ section {
 }
 
 /* Specials Section */
-
 .specials {
   display: inline-block;
   
@@ -143,7 +138,6 @@ section {
 
 
 /* Visit Us Section */
-
 .contact-info {
   margin-top: 20px;
   color: #7A28CB;
@@ -165,9 +159,20 @@ section {
 iframe {
   width: 100%;
   height: 350px;
+  border: none;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 8px 10px rgba(0,0,0,0.3);
 }
 
 /* Footer */
-footer {
-  margin-top: 48px;
+.footer-content {
+  background-color: #7A28CB;
+  color: #fff;
+}
+
+.footer-content p {
+  color: #fff;
+  padding: 6px 0px;
+  margin: 0;
 }
